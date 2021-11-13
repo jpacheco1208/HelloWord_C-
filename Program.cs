@@ -6,7 +6,7 @@ namespace Aula02
     {
         public int Main(string[] args)
         {
-            Console.WriteLine("carros!"); 
+            Console.WriteLine("homem!"); 
             return 0 ;
 
         }
